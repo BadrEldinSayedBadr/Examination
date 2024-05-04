@@ -6,7 +6,7 @@ The Exam Management System is a console application designed to streamline the p
 ![Alt Text](Class Diagram.png)
 
 
-### Installation
+## Installation
 
 1- Clone the repository from GitHub: git clone https://github.com/your_username/exam-management-system.git
 2- Navigate to the project directory: cd exam-management-system
@@ -17,7 +17,7 @@ The Exam Management System is a console application designed to streamline the p
 
 
 
-### Usage
+## Usage
 
 1- Instructor Mode:
   * To create a new exam, navigate to the doctor section and follow the prompts to specify exam details such as duration, question types, and questions.
@@ -34,7 +34,7 @@ The Exam Management System is a console application designed to streamline the p
 
 
 
-### Class Structure (OOP)
+## Class Structure (OOP)
 
 The project is structured using Object-Oriented Programming principles, with key classes including:
 * Exam: Represents an exam entity with properties such as duration, question types, and questions.
