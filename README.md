@@ -15,9 +15,14 @@ The Exam Management System is a console application designed to streamline the p
 ## Installation
 
 1- Clone the repository from GitHub: git clone https://github.com/your_username/exam-management-system.git
+<br>
 2- Navigate to the project directory: cd exam-management-system
+<br>
 3- Open the project in Visual Studio or any other C# IDE.
+<br>
 4- Build the solution to ensure all dependencies are resolved.
+
+
 
 
 <br>
