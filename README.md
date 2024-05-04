@@ -4,7 +4,7 @@ The Exam Management System is a console application designed to streamline the p
 
 <br>
 ![Alt Text](Class_Diagram.png)
-<br>
+
 
 <br>
 ## Installation
@@ -14,7 +14,7 @@ The Exam Management System is a console application designed to streamline the p
 3- Open the project in Visual Studio or any other C# IDE.
 4- Build the solution to ensure all dependencies are resolved.
 
-<br>
+
 
 
 <br>
@@ -32,7 +32,7 @@ The Exam Management System is a console application designed to streamline the p
   * Instructors can grade exams submitted by students and view the results.
   * They can access detailed reports on student performance for each exam.
 
-<br>
+
 
 <br>
 ## Class Structure (OOP)
@@ -44,7 +44,7 @@ The project is structured using Object-Oriented Programming principles, with key
 * ExamManager: Manages the creation, deletion, and editing of exams.
 * StudentManager: Handles student authentication, exam taking, and result retrieval.
 
-<br>
+
 <br>
 
 ### License
