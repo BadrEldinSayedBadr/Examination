@@ -5,7 +5,7 @@ The Exam Management System is a console application designed to streamline the p
 
 <br>
 
-## Class Digram
+## Class Diagram
 
 ![Alt Text](Class_Diagram.png)
 
